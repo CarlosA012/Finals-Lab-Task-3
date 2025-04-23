@@ -27,11 +27,11 @@ Create product tables
 
 ![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/7b20fff1a9242b98f14032e5c8714b0f31ad7b9c/imgaes/product%20tables.png)
 
+Add Constraint
 
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/d186b8e345f38ab14ff331d6a7ca5c3df67f78df/imgaes/adding%20constraint.png)
 
-![image alt]()
-
-
+Insert Values to product tables
 
 ![image alt]()
 
