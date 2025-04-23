@@ -41,4 +41,6 @@ Modify the product_name field to have a maximum of 120 characters.
 
 ## Table Structure
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/b78e80afdf638729aba90827e834dbab8625de1c/imgaes/table%20structure%203.png)
+
+## ERD
