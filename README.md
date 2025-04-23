@@ -12,15 +12,15 @@ Create a product table with the following:
 
 ## Task 2
 
-Add a check constraint to ensure that the price of the product must be greater than 0.
+- Add a check constraint to ensure that the price of the product must be greater than 0.
 
 ## Task 3
 
-Insert Valid Products. In my case I add my own products but it is valid.
+- Insert Valid Products. In my case I add my own products but it is valid.
 
 ## Task 4
 
-Modify the product_name field to have a maximum of 120 characters.
+- Modify the product_name field to have a maximum of 120 characters.
 
 
 # Queries
