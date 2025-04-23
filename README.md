@@ -33,7 +33,7 @@ Add Constraint
 
 Insert Values to product tables
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/d7f4aed157c9d5a55ecd59dc2caf44d90afdbf5d/imgaes/insert%20values%20to%20product%20tables.png)
 
 
 
