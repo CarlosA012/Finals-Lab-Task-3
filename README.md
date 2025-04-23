@@ -2,6 +2,7 @@
 
 This activity, the following task are needed to be implemented using MYSQL Statements. We need to ensure to complete them with a step by step procedure.
 
+
 ## Task 1 
 
 Create a product table with the following:
@@ -21,7 +22,9 @@ Insert Valid Products. In my case I add my own products but it is valid.
 
 Modify the product_name field to have a maximum of 120 characters.
 
+
 # Queries
+
 
 ## Create product tables
 
@@ -44,3 +47,7 @@ Modify the product_name field to have a maximum of 120 characters.
 ![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/b78e80afdf638729aba90827e834dbab8625de1c/imgaes/table%20structure%203.png)
 
 ## ERD
+
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/ef7c4b03e1b10356ff4554b48887a0815bb9ebf8/imgaes/erd%203.png)
+
+it's one only because we create only 1 table so there is no other table that will show.
