@@ -17,3 +17,24 @@ Add a check constraint to ensure that the price of the product must be greater t
 
 Insert Valid Products. In my case I add my own products but it is valid.
 
+## Task 4
+
+Modify the product_name field to have a maximum of 120 characters.
+
+# Queries
+
+Create product tables
+
+![image alt]()
+
+
+
+![image alt]()
+
+
+
+![image alt]()
+
+
+
+![image alt]()
