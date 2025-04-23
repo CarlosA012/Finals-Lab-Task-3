@@ -25,7 +25,7 @@ Modify the product_name field to have a maximum of 120 characters.
 
 Create product tables
 
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/7b20fff1a9242b98f14032e5c8714b0f31ad7b9c/imgaes/product%20tables.png)
 
 
 
