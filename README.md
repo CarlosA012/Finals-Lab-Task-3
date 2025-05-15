@@ -28,26 +28,26 @@ Create a product table with the following:
 
 ## Create product tables
 
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/7b20fff1a9242b98f14032e5c8714b0f31ad7b9c/imgaes/product%20tables.png)
+<img src="imgaes/product tables.png" alt="Alt Text" width="450">
 
 ## Add Constraint
 
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/d186b8e345f38ab14ff331d6a7ca5c3df67f78df/imgaes/adding%20constraint.png)
+<img src="imgaes/adding constraint.png" alt="Alt Text" width="450">
 
 ## Insert Values to product tables
 
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/d7f4aed157c9d5a55ecd59dc2caf44d90afdbf5d/imgaes/insert%20values%20to%20product%20tables.png)
+<img src="imgaes/insert values to product tables.png" alt="Alt Text" width="450">
 
 ## Adding a maximum of 120 characters
 
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/2e0441e80a1393c0939af42b260ec7d0b6cb4ff6/imgaes/adding%20to%20120%20maximum%20char.png)
+<img src="imgaes/adding to 120 maximum char.png" alt="Alt Text" width="450">
 
 ## Table Structure
 
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/b78e80afdf638729aba90827e834dbab8625de1c/imgaes/table%20structure%203.png)
+<img src="imgaes/table structure 3.png" alt="Alt Text" width="450">
 
 ## ERD
 
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-3/blob/ef7c4b03e1b10356ff4554b48887a0815bb9ebf8/imgaes/erd%203.png)
+<img src="imgaes/erd 3.png" alt="Alt Text" width="450">
 
 it's one only because we create only 1 table so there is no other table that will show.
